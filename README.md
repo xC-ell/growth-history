@@ -1,5 +1,5 @@
 # growth-history
-Data and code repository of the 2105.XXXX paper.
+Data and code repository of the [2105.12108](https://arxiv.org/abs/2105.12108) paper.
 
 
 SD SACC link: [SD](https://entangled.physics.ox.ac.uk/index.php/s/cF1x6j4biWXjDy3/download)
